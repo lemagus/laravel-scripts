@@ -4,8 +4,8 @@ Designed to work with [Laravel](http://www.laravel.com).
 
 ### How to install 
 
-Drop scripts.php in the task folder
-Edit the settings properties in the class header
+- Drop scripts.php in the task folder
+- Edit the settings properties in the class header
 
 ### Command Line
 php artisan scripts:compress
