@@ -8,5 +8,5 @@ Designed to work with [Laravel](http://www.laravel.com).
 - Edit the settings properties in the class header
 
 ### Command Line
-php artisan scripts:compress
-php artisan scripts:watch
+- php artisan scripts:compress
+- php artisan scripts:watch
